@@ -1,0 +1,37 @@
+body{
+   margin: 0;
+}
+.linkref{
+    color:black;
+    text-decoration: none;
+    padding: 15px;
+    display: inline;
+}
+    
+    
+#navigation-bar{
+    width: 100%;
+    height: 50px;
+    background-color:rgba(245, 245, 220, 0.5);
+    text-align: center;
+    position: fixed;
+    top: 0;
+}
+div.header{
+    background-image: url("photos/call_of_duty_black_ops_2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-width: 334;
+    min-height: 640;
+}
+
+
+li{
+    border-collapse: collapse;
+}
+p{
+    margin: 10px
+}
+.boutme{
+    text-align: center;
+}
